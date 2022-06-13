@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Learning GIT commands...");
 
+        System.out.println("Hello");
+
     }
 }
