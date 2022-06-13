@@ -10,5 +10,9 @@ public class Main {
 
         System.out.println("Adding changes using Intellij");
 
+        System.out.println("Amending again");
+
+        int a = 5;
+
     }
 }
