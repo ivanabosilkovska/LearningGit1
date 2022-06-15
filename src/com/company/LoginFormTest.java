@@ -6,6 +6,7 @@ public class LoginFormTest {
 
         System.out.println("Automation test for login form");
         System.out.println("New changes");
+        int a = 5;
 
     }
 }
