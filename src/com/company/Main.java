@@ -16,6 +16,7 @@ public class Main {
 
         int b = 8;
 
+        System.out.println("Push");
 
     }
 }
